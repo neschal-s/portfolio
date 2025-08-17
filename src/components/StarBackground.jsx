@@ -37,7 +37,7 @@ export const StarBackground =()=>{
         setStars(newStars);
     }
     const generateMeteors=()=>{
-        const numberOfMeteors=6;
+        const numberOfMeteors=10;
         const newMeteors=[]
 
         for(let i=0;i<numberOfMeteors;i++){
@@ -71,7 +71,7 @@ export const StarBackground =()=>{
 
         {meteors.map((meteor)=>(
             <div key={meteor.id} className="meteor animate-meteor" style={{
-                width:meteor.size*30 +"px",
+                width:meteor.size*10 +"px",
                 height:meteor.size +"px",
                 left:meteor.x +"%",
                 top:meteor.y +"%",
