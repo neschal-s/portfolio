@@ -14,7 +14,7 @@ export const HeroSection=()=>{
                     lsfhjbnnaskjlnsakjv adskdmv ;askl vkl;as v;klads vk;ads vkads vlkads vbkd vlmn dvlkn dlkvn dlkjv dlkv dlmn vlkadsm lka vkads vlkad kad ikad nkad oia ei aidpd ipaee ae a oea  ja a v
                 </p>
 
-                <div className="pt-5 opacity-0 animate-fade-in-delay-4">
+                <div className="pt-8 opacity-0 animate-fade-in-delay-4">
                     <a href="#projects" className="cosmic-button">
                         View my Work
                     </a>
