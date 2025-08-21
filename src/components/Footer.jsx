@@ -6,13 +6,13 @@ export const Footer = () => {
       {" "}
       <p className="text-sm text-muted-foreground">
         {" "}
-        &copy; {new Date().getFullYear()} All rights reserved.
+        &copy; {new Date().getFullYear()} Neschal Singh
       </p>
       <a
         href="#hero"
         className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 text-primary transition-colors"
       >
-        <ArrowUp size={20} />
+        <ArrowUp size={20}/>
       </a>
     </footer>
   );
